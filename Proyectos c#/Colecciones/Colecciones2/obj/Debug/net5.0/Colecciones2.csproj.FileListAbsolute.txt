@@ -1,0 +1,5 @@
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\Colecciones\Colecciones2\obj\Debug\net5.0\Colecciones2.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\Colecciones\Colecciones2\obj\Debug\net5.0\Colecciones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\Colecciones\Colecciones2\obj\Debug\net5.0\Colecciones2.AssemblyInfoInputs.cache
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\Colecciones\Colecciones2\obj\Debug\net5.0\Colecciones2.AssemblyInfo.cs
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\Colecciones\Colecciones2\obj\Debug\net5.0\Colecciones2.csproj.CoreCompileInputs.cache

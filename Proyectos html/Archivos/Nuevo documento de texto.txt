@@ -1,0 +1,76 @@
+<title> titulo </title>
+<meta name="author" content="Jesus Colmenares">
+<meta name="keywords" content="fiambre, queso, picadas, mozzarella, jamon">
+<meta name="description" content="Tienda de fiambres y picadas">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+----------------------------
+<h1>Titulo</h1> Nota: Una sola por pagina web
+<h2>Titulo</h2>
+<h3>Titulo</h3>
+<h4>Titulo</h4>
+<h5>Titulo</h5>
+<h6>Titulo</h6>
+<p> Agregar parrafo</p>
+<br/> salto de linea
+----------------------------
+<ol>
+	<li></li>
+</ol>
+----------------------------
+<ul>
+	<li></li>
+</ul>
+----------------------------
+<dl>
+	<dt> Titulo </dt>
+	<dd> Definicion</dd>
+</dl>
+-----------------------------
+<table> 
+<tr>
+	<td>columna1</td>
+	<td>columna2</td>
+	<td>columna3</td>
+	<td>columna4</td>
+</tr>
+</table>
+----------------------------
+*Tabla*
+ <table border="1"> 
+        <thead>
+            <tr>
+                <th>Ciudad</th>
+                <th>Codigo Postal</th>
+                <th>Num Doc</th>
+                <th>Nombre</th>
+            </tr> 
+        </thead>
+        <tbody>
+            <tr>
+                <td>Mendoza</td>
+                <td>5501</td>
+                <td>96030909</td>
+                <td>Jesus Colmenares</td>
+            </tr> 
+            <tr>
+                <td>Maturin</td>
+                <td>unknow</td>
+                <td>unknow</td>
+                <td>Past Jesus Colmenares</td>
+            </tr> 
+            <tr>
+                <td>Next City</td>
+                <td>Good zone</td>
+                <td>dotn know yet</td>
+                <td>Future Jesus Colmenares</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="4">You can</td>
+            </tr>
+        </tfoot>       
+        </table>
+----------------------------------
+<hr/> *Linea de separación*
+

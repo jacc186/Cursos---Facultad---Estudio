@@ -1,0 +1,131 @@
+   <form>
+
+      <!-- Campo de texto -->
+      <p>
+        <label for="camponombre">Nombre:</label>
+        <input type="text" name="nombre" id="camponombre" placeholder="Nombre">
+      </p>
+
+      <!-- Campo de contraseña -->
+      <p>
+        <label for="password">Contraseña:</label>
+        <input type="password" name="psw" id="password">
+      </p>
+
+      <!-- Campo de email -->
+      <p>
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email">
+      </p>
+
+      <!-- Campo de fecha -->
+      <p>
+        <label for="fecha">Fecha:</label>
+        <input type="date" name="fecha" id="fecha">
+      </p>
+
+      <!-- Campo de fecha y hora -->
+      <p>
+        <label for="fecha">Fecha - hora local:</label>
+        <input type="datetime-local" name="fecha" id="fecha">
+      </p>
+
+      <!-- Campo de subir archivo -->
+      <p>
+        <label for="archivo">Subir archivo:</label>
+        <input type="file" name="archivo" id="archivo">
+      </p>
+
+      <!-- Campo de mes -->
+      <p>
+        <label for="mes">Mes</label>
+        <input type="month" name="mes" id="mes">
+      </p>
+
+      <!-- Campo de número -->
+      <p>
+        <label for="numero">Número</label>
+        <input type="number" name="numero" id="numero">
+      </p>
+
+      <!-- Campo de rango -->
+      <p>
+        <label for="rango">Rango</label>
+        <input type="range" name="rango" id="rango" min="0" max="6">
+      </p>
+
+      <!-- Campo de Buscar -->
+      <p>
+        <label for="buscar">Buscar</label>
+        <input type="search" name="buscar" id="buscar">
+      </p>
+
+      <!-- Campo de teléfono -->
+      <p>
+        <label for="tel">Teléfono</label>
+        <input type="tel" name="tel" id="tel">
+      </p>
+
+      <!-- Campo de hora -->
+      <p>
+        <label for="time">Hora</label>
+        <input type="time" name="time" id="time">
+      </p>
+
+      <!-- Campo de url -->
+      <p>
+        <label for="url">URL</label>
+        <input type="url" name="url" id="url">
+      </p>
+
+      <!-- Campo de semana -->
+      <p>
+        <label for="week">Semana</label>
+        <input type="week" name="week" id="week">
+      </p>
+
+      <!-- Campo de selección -->
+      <p>
+        <select>
+          <option>Item #1</option>
+          <option>Item #2</option>
+          <option>Item #3</option>
+        </select>
+      </p>
+
+      <!-- Campo Radio -->
+      <p>
+        <label for="comida">Comida:</label><br/>
+        <input type="radio" name="comida"> Hamburguesa
+        <input type="radio" name="comida"> Ensalada
+      </p>
+
+      <!-- Campo Checkbox -->
+      <p>
+        <label for="comida">Comida:</label><br/>
+        <input type="checkbox" name="fruta1"> Naranja
+        <input type="checkbox" name="fruta2"> Manzana
+      </p>
+
+      <!-- Campo de Color -->
+      <p>
+        <label for="color">Color:</label>
+        <input type="color" name="color" id="color">
+      </p>
+
+      <!-- Area de texto -->
+      <p>
+        <label for="comentario">Comentarios:</label>
+        <textarea id="comentario" name="areatexto" rows="8" cols="80"></textarea>
+      </p>
+
+      <!-- Boton de enviar y reset -->
+      <p>
+        <input type="submit" value="Submit">
+        <input type="reset">
+      </p>
+
+
+
+
+    </form>
