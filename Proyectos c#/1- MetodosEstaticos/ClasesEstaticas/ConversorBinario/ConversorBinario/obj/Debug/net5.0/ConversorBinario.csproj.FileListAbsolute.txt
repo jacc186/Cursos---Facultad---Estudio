@@ -1,0 +1,12 @@
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\bin\Debug\net5.0\ConversorBinario.deps.json
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\bin\Debug\net5.0\ConversorBinario.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\bin\Debug\net5.0\ref\ConversorBinario.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\bin\Debug\net5.0\ConversorBinario.pdb
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\obj\Debug\net5.0\ConversorBinario.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\obj\Debug\net5.0\ConversorBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\obj\Debug\net5.0\ConversorBinario.AssemblyInfoInputs.cache
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\obj\Debug\net5.0\ConversorBinario.AssemblyInfo.cs
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\obj\Debug\net5.0\ConversorBinario.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\obj\Debug\net5.0\ConversorBinario.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\obj\Debug\net5.0\ref\ConversorBinario.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\ConversorBinario\ConversorBinario\obj\Debug\net5.0\ConversorBinario.pdb

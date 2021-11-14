@@ -1,0 +1,38 @@
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.exe
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.deps.json
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.dll
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\ref\Consola.dll
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.pdb
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.dll
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\ref\Consola.dll
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.pdb
+C:\Users\W10-PC\Desktop\Programacion\Proyectos c#\MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.exe
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.deps.json
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\ref\Consola.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Consola.pdb
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.csproj.CopyComplete
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\ref\Consola.dll
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.pdb
+C:\Users\W10-PC\Desktop\Programacion\Codigos\Cursos---Facultad---Estudio\Proyectos c#\1- MetodosEstaticos\ClasesEstaticas\Ejercicio2\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
