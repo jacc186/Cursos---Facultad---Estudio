@@ -1,0 +1,18 @@
+ol
+{
+    list-style: none;
+    counter-reset: contador;
+}
+ol li
+{
+    counter-increment: contador;
+}
+ol li::before
+{
+    content: "Tarea " counter(contador) ") ";
+    color: #f4a261;
+}
+ol li::after
+{
+    content: "."
+}
