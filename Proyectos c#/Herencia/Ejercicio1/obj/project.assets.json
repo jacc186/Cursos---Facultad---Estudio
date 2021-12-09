@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Proyectos c#\\Herencia\\Ejercicio1\\Ejercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Codigos\\Cursos---Facultad---Estudio\\Proyectos c#\\Herencia\\Ejercicio1\\Ejercicio1.csproj",
       "projectName": "Ejercicio1",
-      "projectPath": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Proyectos c#\\Herencia\\Ejercicio1\\Ejercicio1.csproj",
+      "projectPath": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Codigos\\Cursos---Facultad---Estudio\\Proyectos c#\\Herencia\\Ejercicio1\\Ejercicio1.csproj",
       "packagesPath": "C:\\Users\\W10-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Proyectos c#\\Herencia\\Ejercicio1\\obj\\",
+      "outputPath": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Codigos\\Cursos---Facultad---Estudio\\Proyectos c#\\Herencia\\Ejercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W10-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Proyectos c#\\Colecciones\\Colecciones2\\Colecciones2.csproj",
+      "projectUniqueName": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Codigos\\Cursos---Facultad---Estudio\\Proyectos c#\\Colecciones\\Colecciones2\\Colecciones2.csproj",
       "projectName": "Colecciones2",
-      "projectPath": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Proyectos c#\\Colecciones\\Colecciones2\\Colecciones2.csproj",
+      "projectPath": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Codigos\\Cursos---Facultad---Estudio\\Proyectos c#\\Colecciones\\Colecciones2\\Colecciones2.csproj",
       "packagesPath": "C:\\Users\\W10-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Proyectos c#\\Colecciones\\Colecciones2\\obj\\",
+      "outputPath": "C:\\Users\\W10-PC\\Desktop\\Programacion\\Codigos\\Cursos---Facultad---Estudio\\Proyectos c#\\Colecciones\\Colecciones2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W10-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
