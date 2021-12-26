@@ -1,0 +1,12 @@
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\bin\Debug\net5.0\Biblioteca de Clases.deps.json
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\bin\Debug\net5.0\Biblioteca de Clases.dll
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\bin\Debug\net5.0\ref\Biblioteca de Clases.dll
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\bin\Debug\net5.0\Biblioteca de Clases.pdb
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\obj\Debug\net5.0\Biblioteca de Clases.csproj.AssemblyReference.cache
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\obj\Debug\net5.0\Biblioteca de Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\obj\Debug\net5.0\Biblioteca de Clases.AssemblyInfoInputs.cache
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\obj\Debug\net5.0\Biblioteca de Clases.AssemblyInfo.cs
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\obj\Debug\net5.0\Biblioteca de Clases.csproj.CoreCompileInputs.cache
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\obj\Debug\net5.0\Biblioteca de Clases.dll
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\obj\Debug\net5.0\ref\Biblioteca de Clases.dll
+C:\Programacion\Cursos---Facultad---Estudio\Proyectos c#\SQL\Solution1\Biblioteca de Clases\obj\Debug\net5.0\Biblioteca de Clases.pdb

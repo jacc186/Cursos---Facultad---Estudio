@@ -1,0 +1,50 @@
+h1
+{
+    text-align: center;
+    color: darkorange;
+}
+div.contenedor
+{
+    width: 30%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid darkkhaki;
+    padding: 15px;
+    color: darkred;
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+div.contenedor p::selection
+{
+    color: red;
+    background-color: sandybrown;
+}
+div.contenedor p::first-line
+{
+    font-variant: small-caps;
+}
+div.contenedor p::first-letter
+{
+    color: chocolate;
+}
+div.contenedor p::before
+{
+    content: "- ";
+}
+div.contenedor p::after
+{
+    content: " -";
+}
+div img
+{
+    width: 100%;
+    height: 20%;
+    opacity: 0.9;
+}
+div img:hover
+{
+    opacity: 1;
+}

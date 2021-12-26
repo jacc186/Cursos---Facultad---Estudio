@@ -1,0 +1,14 @@
+body
+{
+    background: url("/Archivos/img/45079.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+h1
+{
+    text-align: center;
+    color: black;
+    background-color: blanchedalmond;
+    size: 100px;
+    box-sizing: border-box;
+}

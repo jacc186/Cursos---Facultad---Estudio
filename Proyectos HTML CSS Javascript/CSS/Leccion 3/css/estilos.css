@@ -1,0 +1,15 @@
+h1
+{
+    text-align: center;
+    color: #e63946
+}
+div
+{
+    padding: 10px 15px;
+    border: 1px solid #457b9d;
+    background-color: #ffcdb2;
+    max-width: 300px;
+    text-align: center;    
+    box-sizing: border-box;
+    margin: 20px;
+}

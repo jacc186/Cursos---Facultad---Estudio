@@ -1,0 +1,20 @@
+h1, div, p
+{
+    padding: 10px;
+    border: 3px solid brown;
+    text-align: center;
+    color: darkorange;
+    display: block;
+}
+span
+{
+    display: block;
+}
+a
+{
+    display: block;
+}
+li
+{
+    display: inline;
+}

@@ -1,0 +1,25 @@
+h1
+{
+    text-align: center;
+    color: #d00000;
+    text-shadow: 2px 2px 2px #a8dadc;
+}
+div.contenedor
+{
+    width: 80%;
+    margin: auto;
+    height: 300px;
+    display: flex;
+    background-color: #e85d04;
+    flex-flow: wrap row;
+    justify-content: center;
+    align-items: center;
+
+}
+div.contenedor > p
+{
+    background-color: #ffba08;
+    margin: 5px;
+    padding: 15px;
+    font-size: 1.5em;
+}

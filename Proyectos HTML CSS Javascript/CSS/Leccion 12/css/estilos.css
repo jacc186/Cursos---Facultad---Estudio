@@ -1,0 +1,36 @@
+
+h1
+{
+    text-align: center;
+    text-shadow: 2px 2px 2px #a8dadc;
+    font-weight: normal;
+    color: #ca6702;
+}
+div.contenedor
+{
+    border: 3px solid coral;
+    padding: 15px;
+    width: 30%;
+    height: 20%;
+    margin: auto;
+    text-align: center;
+    box-shadow:2px 2px 5px 2px grey ;
+    color: #ce9122;
+    border-radius: 15px;
+}
+div.contenedor img
+{
+    width: 100%;
+}
+div.cabecero
+{
+    background-color: #ca6702;
+    border-radius: 15px;
+}
+div.cuerpo
+{
+    padding-top: 2px;
+    font-size: 1.2em;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px #e9d8a6;
+}
