@@ -1,2 +1,2 @@
-# Cursos---Facultad---Estudio
+# Cursos
 Aqui guardo mis ejercicios realizados
