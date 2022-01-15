@@ -117,6 +117,7 @@ namespace Vista
             this.buttonAgregar.TabIndex = 11;
             this.buttonAgregar.Text = "Agregar";
             this.buttonAgregar.UseVisualStyleBackColor = true;
+            this.buttonAgregar.Click += new System.EventHandler(this.buttonAgregar_Click);
             // 
             // buttonCerrar
             // 
@@ -126,6 +127,7 @@ namespace Vista
             this.buttonCerrar.TabIndex = 12;
             this.buttonCerrar.Text = "Cerrar";
             this.buttonCerrar.UseVisualStyleBackColor = true;
+            this.buttonCerrar.Click += new System.EventHandler(this.buttonCerrar_Click);
             // 
             // FormDetalle
             // 

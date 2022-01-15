@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion\\Cursos---Facultad---Estudio\\Proyectos c#\\SQL\\Solution1\\Biblioteca de Clases\\Biblioteca de Clases.csproj": {}
+    "C:\\Programacion\\Cursos\\C#\\SQL\\Solution1\\Biblioteca de Clases\\Biblioteca de Clases.csproj": {}
   },
   "projects": {
-    "C:\\Programacion\\Cursos---Facultad---Estudio\\Proyectos c#\\SQL\\Solution1\\Biblioteca de Clases\\Biblioteca de Clases.csproj": {
+    "C:\\Programacion\\Cursos\\C#\\SQL\\Solution1\\Biblioteca de Clases\\Biblioteca de Clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion\\Cursos---Facultad---Estudio\\Proyectos c#\\SQL\\Solution1\\Biblioteca de Clases\\Biblioteca de Clases.csproj",
+        "projectUniqueName": "C:\\Programacion\\Cursos\\C#\\SQL\\Solution1\\Biblioteca de Clases\\Biblioteca de Clases.csproj",
         "projectName": "Biblioteca de Clases",
-        "projectPath": "C:\\Programacion\\Cursos---Facultad---Estudio\\Proyectos c#\\SQL\\Solution1\\Biblioteca de Clases\\Biblioteca de Clases.csproj",
+        "projectPath": "C:\\Programacion\\Cursos\\C#\\SQL\\Solution1\\Biblioteca de Clases\\Biblioteca de Clases.csproj",
         "packagesPath": "C:\\Users\\W10-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion\\Cursos---Facultad---Estudio\\Proyectos c#\\SQL\\Solution1\\Biblioteca de Clases\\obj\\",
+        "outputPath": "C:\\Programacion\\Cursos\\C#\\SQL\\Solution1\\Biblioteca de Clases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

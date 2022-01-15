@@ -49,9 +49,11 @@ namespace Vista
             this.dataGridViewClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewClientes.Location = new System.Drawing.Point(12, 60);
             this.dataGridViewClientes.Name = "dataGridViewClientes";
+            this.dataGridViewClientes.ReadOnly = true;
             this.dataGridViewClientes.RowTemplate.Height = 25;
-            this.dataGridViewClientes.Size = new System.Drawing.Size(459, 258);
+            this.dataGridViewClientes.Size = new System.Drawing.Size(544, 258);
             this.dataGridViewClientes.TabIndex = 1;
+            this.dataGridViewClientes.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewClientes_CellDoubleClick);
             // 
             // buttonCrear
             // 
@@ -61,6 +63,7 @@ namespace Vista
             this.buttonCrear.TabIndex = 2;
             this.buttonCrear.Text = "Crear";
             this.buttonCrear.UseVisualStyleBackColor = true;
+            this.buttonCrear.Click += new System.EventHandler(this.buttonCrear_Click);
             // 
             // buttonBuscar
             // 
@@ -86,7 +89,7 @@ namespace Vista
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(484, 335);
+            this.ClientSize = new System.Drawing.Size(570, 335);
             this.Controls.Add(this.labelBuscar);
             this.Controls.Add(this.buttonBuscar);
             this.Controls.Add(this.buttonCrear);

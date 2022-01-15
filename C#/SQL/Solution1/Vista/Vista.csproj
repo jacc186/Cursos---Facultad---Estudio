@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca de Clases\Biblioteca de Clases.csproj" />
+  </ItemGroup>
+
 </Project>
