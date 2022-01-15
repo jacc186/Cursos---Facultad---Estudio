@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "436ad81a-d8bd-4b76-af45-019855a8510c": {
+      "ProjectGuid": "436ad81a-d8bd-4b76-af45-019855a8510c",
+      "DisplayName": "Blog",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
