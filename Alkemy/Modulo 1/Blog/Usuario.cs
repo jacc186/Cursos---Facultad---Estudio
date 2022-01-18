@@ -9,23 +9,21 @@ namespace Blog
 {
     public  class Usuario
     {
-        [Key]
-        private int id;
+        private int userId;
         private string name;
         private string password;
         private string email;
         private ICollection<Posts> posts;
         private ICollection<Comments> comments;
 
-        public Usuario(int id, string name, string password, string email)
+        public Usuario(string name, string password, string email)
         {
-            this.id = id;
             this.name = name;
             this.password = password;
             this.email = email;
         }
-
-        public int Id { get => id;}
+        [Key]
+        public int Id { get => userId; set => userId = value; }
         public string Name { get => name; set => name = value; }
         public string Password { get => password; set => password = value; }
         public string Email { get => email; set => email = value; }

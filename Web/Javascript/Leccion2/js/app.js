@@ -18,6 +18,11 @@ function AgregarPersona()
 {
     let nombre = document.getElementById("nombre").value;
     let apellido = document.getElementById("apellido").value;
-    personas.push(new Persona(nombre, apellido));
-    MostrarPersonas();
+    console.log(nombre, apellido);
+    if(nombre != "" || apellido != "")
+    {
+        personas.push(new Persona(nombre, apellido));
+        MostrarPersonas();
+    }
+        
 }

@@ -9,22 +9,21 @@ namespace Blog
 {
     public class Comments
     {
-        [Key]
         private int commentId;
         private DateTime date;
         private string comment;
-        private Usuario user;
+        private int userId;
 
-        public Comments (DateTime date, string comment, Usuario user)
+        public Comments (DateTime date, string comment, int userId)
         {
             this.date = date;
             this.comment = comment;
-            this.user = user;
+            this.userId = userId;
         }
-
-        public int Id { get => commentId;}
+        [Key]
+        public int CommentId { get => commentId; set => commentId = value; }
         public DateTime Date { get => date; set => date = value; }
         public string Comment { get => comment; set => comment = value; }
-        internal Usuario User { get => user; set => user = value; }
+        public int UserId { get => userId; set => userId = value; }
     }
 }

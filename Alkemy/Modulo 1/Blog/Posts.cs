@@ -9,25 +9,24 @@ namespace Blog
 {
     public class Posts
     {
-        [Key]
         private int postId;
         private string title;
         private DateTime date;
         private string content;
-        private Usuario user;
+        private int userId;
 
-        public Posts(string title, DateTime date, string content, Usuario user)
+        public Posts(string title, DateTime date, string content, int userId)
         {
             this.title = title;
             this.date = date;
             this.content = content;
-            this.user = user;
+            this.userId = userId;
         }
-
-        public int PostId { get => postId;}
+        [Key]
+        public int PostId { get => postId; set => postId = value; }
         public string Title { get => title; set => title = value; }
         public DateTime Date { get => date; set => date = value; }
         public string Content { get => content; set => content = value; }
-        internal Usuario User { get => user; set => user = value; }
+        public int UserId { get => userId; set => userId = value; }
     }
 }
